@@ -30,8 +30,8 @@ const SuggestedUsers = () => {
 
 			<Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
 				© 2023 Built By{" "}
-				<Link href='https://www.youtube.com/@asaprogrammer_' target='_blank' color='blue.500' fontSize={14}>
-					As a Programmer
+				<Link href='https://www.youtube.com/@amsrhub' target='_blank' color='blue.500' fontSize={14}>
+					AmsR (Aryan Maurya)
 				</Link>
 			</Box>
 		</VStack>
